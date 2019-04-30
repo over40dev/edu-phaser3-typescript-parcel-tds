@@ -1,7 +1,7 @@
 {
-  "name": "starter-phaser3-typescript-parcel-game",
+  "name": "phaser3-typescript-parcel-topdownshooter-game",
   "version": "1.0.0",
-  "description": "Simple Phaser3 TypeScript Parcel Starter Game/App",
+  "description": "Simple Phaser3 TypeScript Parcel Top-down Shooter Game",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",

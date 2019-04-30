@@ -42,6 +42,7 @@ jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
+types/
 
 # Optional npm cache directory
 .npm
@@ -64,7 +65,7 @@ typings/
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
-.dist
+dist
 
 # next.js build output
 .next
