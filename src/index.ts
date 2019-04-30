@@ -1,4 +1,4 @@
-import Phaser from '';
+import Phaser from 'phaser';
 import CreateScene from './createScene';
 
 const engineConfig = {

@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "paths": { "*": ["typings/*"] },
+    "paths": { "*": ["types/*"] },
     "module": "es2015",
     "esModuleInterop": true,
     "sourceMap": true,
@@ -11,6 +11,10 @@
       "dom"
     ],
     "rootDir": "src",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "types": [
+      "typings",
+      "node_modules/@types"
+    ]
   }
 }
